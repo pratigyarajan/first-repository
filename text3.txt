@@ -1,1 +1,2 @@
 opening my 3rd file as trying it
+this is test3.txt but without knowing i typed text3.txtgit
